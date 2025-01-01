@@ -48,5 +48,3 @@ access_token_secret = Your Keys
 5. Open your terminal/command prompt from your project directory and run the file `app.py` by executing the command `streamlit run app.py`.
 6. You will be automatically redirected the your localhost in brower where you can see you WebApp in live.
 
-## Architecture of your Project Home Directory
-<p><img  alt="GIF" src="https://github.com/everydaycodings/Twitter-Sentimental-Analysis-WebApp/blob/master/presentation/pic1.png" width="240" height="410" /></p>
